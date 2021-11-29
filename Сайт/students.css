@@ -1,0 +1,34 @@
+body{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: auto;
+}
+
+form{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 600px;
+    height: 250px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    padding: 10px;
+}
+
+.line{
+    display: flex;
+}
+
+.std-img{
+    margin-left: 10px;
+}
+
+.bl{
+    margin-left: 10px;
+}
